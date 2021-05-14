@@ -3,7 +3,7 @@
     "@mdi/font": "^5.9.55"
   },
   "devDependencies": {
-    "css-loader": "github:webpack-contrib/css-loader#13b7458be2ef0d7a6b334e5e8149d83de6478403",
+    "css-loader": "github:webpack-contrib/css-loader#1167ab4a9f5b49e32a28f9b9645f6ab37b541f89",
     "file-loader": "^6.2.0",
     "mini-css-extract-plugin": "^1.6.0",
     "webpack": "^5.37.0",

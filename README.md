@@ -10,5 +10,5 @@ and run with
 ./run.sh
 ```
 
-This commit represents the head of the `master` branch of `css-loader`.
-Also, check the `next` branch.
+This commit represents the head of the `next` branch of `css-loader`.
+Also, check the `master` branch.
